@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Priyanshu052600
+- 👀 I’m interested in Software Development role 
+- 🌱 I’m currently working at TCSL
+- 💞️ I’m looking to collaborate on web development projects
+- 📫 Email: Pg052600@gmail.com
