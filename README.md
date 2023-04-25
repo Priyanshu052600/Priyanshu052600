@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Priyanshu052600
+- 👋 Hi, I’m Priyanshu Gupta
 - 👀 I’m interested in Software Development role 
-- 🌱 I’m currently working at TCSL
-- 💞️ I’m looking to collaborate on web development projects
-- 📫 Email: Pg052600@gmail.com
+- 🌱 I’m currently working at MuSigma
+- 💞️ I’m looking to collaborate on Software development projects
+- 📫 Email: Priyanshugupta78600@gmail.com
